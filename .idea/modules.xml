@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/intelijotaJAVAAA.iml" filepath="$PROJECT_DIR$/.idea/intelijotaJAVAAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jakarta/jakarta.iml" filepath="$PROJECT_DIR$/jakarta/jakarta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarumanagara/tarumanagara.iml" filepath="$PROJECT_DIR$/tarumanagara/tarumanagara.iml" />
+    </modules>
+  </component>
+</project>
