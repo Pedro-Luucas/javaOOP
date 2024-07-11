@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/0Jakarta/0Jakarta.iml" filepath="$PROJECT_DIR$/0Jakarta/0Jakarta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1Tarumanagara/1Tarumanagara.iml" filepath="$PROJECT_DIR$/1Tarumanagara/1Tarumanagara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2Kramat/2Kramat.iml" filepath="$PROJECT_DIR$/2Kramat/2Kramat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/intelijotaJAVAAA.iml" filepath="$PROJECT_DIR$/.idea/intelijotaJAVAAA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jakarta/jakarta.iml" filepath="$PROJECT_DIR$/jakarta/jakarta.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kramat/kramat.iml" filepath="$PROJECT_DIR$/kramat/kramat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tarumanagara/tarumanagara.iml" filepath="$PROJECT_DIR$/tarumanagara/tarumanagara.iml" />
     </modules>
   </component>
 </project>
