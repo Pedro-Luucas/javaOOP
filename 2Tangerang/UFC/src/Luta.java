@@ -42,6 +42,7 @@ public class Luta {
             desafiado.perder();
             String msg = String.format("O DESAFIANTE %s GANHOU A LUTA!", desafiante.getNome());
             System.out.println(msg);
+            System.out.println("*************************");
         }
         else{
             desafiante.perder();
